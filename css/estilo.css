@@ -1,6 +1,5 @@
 input,textarea{
     padding:10px;
-  /*  width:100%;*/
     outline:none;
     transition: all 0.15s ease-in-out;
     border-radius:4px;
@@ -10,4 +9,8 @@ input,textarea{
 .azul:focus {
     box-shadow: 0 0 5px rgba(0,0,255,1);
     border:2px solid rgba(0,0,255,0.8);
+  }
+.rojo:focus {
+    box-shadow: 0 0 5px rgba(255,0,0,1);
+    border:1px solid rgba(255,0,0,0.8);
   }
