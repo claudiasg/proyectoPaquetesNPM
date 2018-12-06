@@ -1,6 +1,6 @@
 {
   "name": "proyectopaquetesnpm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Este paquete permite resaltar con un color el input actual",
   "main": "index.js",
   "scripts": {
